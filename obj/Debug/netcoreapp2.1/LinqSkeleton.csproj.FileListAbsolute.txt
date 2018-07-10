@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\LINQ\music-linq\music-linq\bin\Debug\netcoreapp2.1\LinqSkeleton.deps.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\LINQ\music-linq\music-linq\bin\Debug\netcoreapp2.1\LinqSkeleton.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\LINQ\music-linq\music-linq\bin\Debug\netcoreapp2.1\LinqSkeleton.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\LINQ\music-linq\music-linq\bin\Debug\netcoreapp2.1\LinqSkeleton.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\LINQ\music-linq\music-linq\bin\Debug\netcoreapp2.1\LinqSkeleton.pdb
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\LINQ\music-linq\music-linq\obj\Debug\netcoreapp2.1\LinqSkeleton.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\LINQ\music-linq\music-linq\obj\Debug\netcoreapp2.1\LinqSkeleton.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\LINQ\music-linq\music-linq\obj\Debug\netcoreapp2.1\LinqSkeleton.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\LINQ\music-linq\music-linq\obj\Debug\netcoreapp2.1\LinqSkeleton.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\LINQ\music-linq\music-linq\obj\Debug\netcoreapp2.1\LinqSkeleton.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\LINQ\music-linq\music-linq\obj\Debug\netcoreapp2.1\LinqSkeleton.pdb
